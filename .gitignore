@@ -1,4 +1,9 @@
 __pycache__/
 mini_bdx_runtime.egg-info/
 build
-dist
+distcheckpoints/
+*.onnx
+wandb/
+.venv/
+.kaggle_dataset/
+disney_bdx_paper.pdf
